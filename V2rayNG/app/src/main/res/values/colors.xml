@@ -10,13 +10,13 @@
     <color name="colorIndicator">@color/md_theme_primary</color>
 
     <!-- Primary colors - main tone: black -->
-    <color name="md_theme_primary">#000000</color>
+    <color name="md_theme_primary">#00FFFF</color>
     <color name="md_theme_onPrimary">#FFFFFF</color>
     <color name="md_theme_primaryContainer">#E0E0E0</color>
     <color name="md_theme_onPrimaryContainer">#000000</color>
 
     <!-- Secondary colors - accent color: orange -->
-    <color name="md_theme_secondary">#f97910</color>
+    <color name="md_theme_secondary">#2F2F2F</color>
     <color name="md_theme_onSecondary">#FFFFFF</color>
     <color name="md_theme_secondaryContainer">#FFE8D6</color>
     <color name="md_theme_onSecondaryContainer">#2B1700</color>
